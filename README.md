@@ -26,3 +26,5 @@ all  | รวมกลอนทั้งหมด | 32,970
 [ตารางสรุป](https://docs.google.com/spreadsheets/d/1H_rI28YrDefSjTPBZd-Q3w75LkGkswOg51w1MTExin8/edit?usp=sharing) ครับ
 
 ทุกๆ เล่ม อ่านได้จาก [ห้องสมุดดิจิทัลวชิรญาณ](https://vajirayana.org/) มี link อยู่ในตารางสรุป
+
+ตัวอย่างการค้น/วิเคราะห์ง่ายๆ [explore.ipynb](https://colab.fan/korakot/sunthorn/explore.ipynb)
