@@ -1,7 +1,9 @@
-# sunthorn
-Collections of Sunthorn Phu's works
+# Sunthorn
+A collection of Sunthorn Phu's works.
 
-Currently only 14 of his klons.
+Currently it includes all 14 of his klons.
+
+This project is supported by [![AIResearch](https://airesearch.in.th/assets/img/logo/airesearch-logo.svg)](https://airesearch.in.th/)
 
 ตัวย่อ | ชื่อเต็ม |  จำนวนบท
 -----|-------|--------:
