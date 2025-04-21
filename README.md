@@ -29,4 +29,4 @@ all  | รวมกลอนทั้งหมด | 32,970
 
 ทุกๆ เล่ม อ่านได้จาก [ห้องสมุดดิจิทัลวชิรญาณ](https://vajirayana.org/) ตามที่ทำ link ในตาราง
 
-ตัวอย่างการค้น/วิเคราะห์ง่ายๆ [explore.ipynb](https://colab.fan/korakot/sunthorn/explore.ipynb)
+ตัวอย่างการค้น/วิเคราะห์ง่ายๆ [explore.ipynb](https://colab.research.google.com/github/korakot/sunthorn/blob/master/explore.ipynb)
